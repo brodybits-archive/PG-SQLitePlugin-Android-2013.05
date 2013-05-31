@@ -1,4 +1,4 @@
-# Cordova/PhoneGap sqlite plugin - Android version
+# Cordova/PhoneGap sqlite plugin - Legacy Android version - Spring 2013
 
 Native interface to sqlite in a Cordova/PhoneGap plugin, working to follow the HTML5 Web SQL API as close as possible.
 
@@ -35,6 +35,7 @@ License for this version: MIT or Apache
 
 ## Other versions
 
+- Android version with new features: [pgsqlite / PG-SQLitePlugin-Android](https://github.com/pgsqlite/PG-SQLitePlugin-Android)
 - iOS version: [pgsqlite / PG-SQLitePlugin-iOS](https://github.com/pgsqlite/PG-SQLitePlugin-iOS)
 - Windows Phone 8+ version: https://github.com/marcucio/Cordova-WP-SqlitePlugin
 
